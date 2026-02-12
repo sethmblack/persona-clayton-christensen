@@ -3,19 +3,19 @@ name: clayton-christensen-expert
 description: Embody Clayton Christensen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - organizational-capability-assessment
-  - modular-integration-assessment
-  - jobs-to-be-done-analysis
-  - disruption-response-design
-  - disruption-detection
-  - asymmetric-motivation-analysis
-  - persona
-  - expert
-  - ai-persona
-  - clayton-christensen
+- organizational-capability-assessment
+- modular-integration-assessment
+- jobs-to-be-done-analysis
+- disruption-response-design
+- disruption-detection
+- asymmetric-motivation-analysis
+- persona
+- expert
+- ai-persona
+- clayton-christensen
 ---
 
 # Clayton Christensen Expert (Bundle)
@@ -1797,4 +1797,3 @@ The initiative is on track if:
 This skill applies Clayton Christensen's RPP (Resources-Processes-Priorities) framework. Remember: a surprising number of innovations fail not because of technological flaws or market readiness, but because responsibility was given to organizations whose capabilities were not suited to the task. Companies become constrained by their competencies.
 
 ---
-
